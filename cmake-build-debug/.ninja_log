@@ -1,0 +1,22 @@
+# ninja log v5
+6	304	7371475787881370	build.ninja	af774d9d1e23c053
+0	2089	7371475809983763	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+2095	2320	7371475812251490	examen.exe	6279b3b6fdcde36c
+4	1932	7371476057207122	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+1933	2113	7371476058953308	examen.exe	6279b3b6fdcde36c
+5	1801	7371476817800077	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+1802	1929	7371476819095990	examen.exe	6279b3b6fdcde36c
+4	1991	7371487773926400	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+1992	2144	7371487775417191	examen.exe	6279b3b6fdcde36c
+3	2287	7371488256022071	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+2288	2433	7371488257421898	examen.exe	6279b3b6fdcde36c
+3	1938	7371490384120031	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+1939	2082	7371490385578488	examen.exe	6279b3b6fdcde36c
+7	1822	7371490964493540	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+1823	1972	7371490966051642	examen.exe	6279b3b6fdcde36c
+7	2628	7371494529749382	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+2629	2861	7371494532048326	examen.exe	6279b3b6fdcde36c
+4	2267	7371495376033729	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+2268	2571	7371495378992419	examen.exe	6279b3b6fdcde36c
+8	2251	7371497107289786	CMakeFiles/examen.dir/2024_extraordinario_Galeano.cpp.obj	15a53c6f68cd7fc3
+2251	2625	7371497110924364	examen.exe	6279b3b6fdcde36c
